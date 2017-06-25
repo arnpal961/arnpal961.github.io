@@ -1,0 +1,26 @@
+#header {
+	height: 200px;
+	width: auto;
+	background-color: lightblue;
+
+}
+
+#body {
+	height: 500px;
+	width: auto;
+}
+
+#footer {
+	height: 150px;
+	width: auto;
+	background-color: gray;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	font-family: verdana;
+	font-size: 20px;
+}
